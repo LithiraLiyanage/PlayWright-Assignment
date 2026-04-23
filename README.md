@@ -10,7 +10,7 @@ The framework is structured to support clean test organization, reusable compone
 ---
 
 <p align="center">
-  <img src="https://i.imgur.com/8Km9tLL.png" width="700"/>
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="700"/>
 </p>
 
 ## 🚀 Project Purpose
