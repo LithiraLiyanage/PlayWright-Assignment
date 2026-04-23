@@ -9,6 +9,10 @@ The framework is structured to support clean test organization, reusable compone
 
 ---
 
+<p align="center">
+  <img src="https://i.imgur.com/8Km9tLL.png" width="700"/>
+</p>
+
 ## 🚀 Project Purpose
 
 The main goals of this project are:
