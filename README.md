@@ -12,11 +12,8 @@ The framework is structured to support clean test organization, reusable compone
 ## 🚀 Project Overview
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/assets/coding-cat.png" width="700"/>
+  <img src="https://raw.githubusercontent.com/USERNAME/REPO/main/assets/coding-cat.png" width="700"/>
 </p>
-
-This project is designed to deliver a powerful and scalable solution with clean architecture and modern technologies.  
-It focuses on performance, usability, and real-world problem solving.
 
 
 ## 🚀 Project Purpose
